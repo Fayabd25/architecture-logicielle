@@ -1,7 +1,7 @@
 # Architecture logicielle
 
 ## Présentation
-
+ Participants : ABID Faycal - KHETACHE Billal
 Ce dépôt regroupe mes travaux pratiques réalisés dans le cadre du cours d’architecture logicielle. L’objectif est de comprendre les principaux modèles d’architecture, leur organisation et leurs avantages en matière de conception, de maintenance et de test.
 
 ## Objectifs pédagogiques
